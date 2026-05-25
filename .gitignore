@@ -1,0 +1,19 @@
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+Thumbs.db
+
+# Node/Frontend
+node_modules/
+npm-debug.log
+yarn-error.log
+frontend/node_modules/
+
+# Misc
+.cache/
